@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+  
+   <title>AAPI | Take Action</title>
+   <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <!-- link the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+
+ </head>
+  <body>
+
+
+   <nav>
+     <ul>
+       <li>
+         <a href="index.html" > Home</a>
+       </li>
+       <li>
+         <a href="about.html" > About</a>
+       </li>
+       <li>
+         <a href="takeAction.html" > Action</a>
+       </li>
+       <li>
+         <a href="stayConnected.html" > Connect</a>
+       </li>
+     </ul>
+   </nav>
+  
+   <header>
+     <h1>Taking action to support the AAPI community</h1>
+   </header>
+
+
+   <main>
+     <h2 class="takeActionTxt">Are you an "educator", a member of the "AAPI" community, a "young person", or an "ally".</h2>
+       <!-- <label for="call-me"> Call me </label> -->
+       <input type="text" id="userType">
+       <button id="userEnterBtn">  Take action! </button>
+     <p id="resources"> </p>
+     <h2 class="takeActionTxt">Consider donating to the following organizations supporting AAPI communities!</h2>
+     <a href="https://www.ascendleadership.org/"> Ascend Leadership </a>
+     <p> </p>
+     <a href="https://apawomen.org/"> Asian Pacific Islander Women </a>
+     <p> </p>
+     <a href="https://www.committee100.org/"> Committee 100 </a>
+     <p> </p>
+     <a href="https://jacl.org/"> Japanese American Citizens League </a>
+     <p> </p>
+     <a href="https://www.kacla.org/"> Korean American Coalition </a>
+     <p> </p>
+     <a href="https://www.napawf.org/"> National Asian Pacific American Women's Forum </a>
+     <p> </p>
+     <a href="https://aaaesc.org/"> Asian American Architects/Engineers Association </a>
+     <p> </p>
+     <a href="https://www.aabdc.com/"> Asian American Business Development Center </a>
+     <p> </p>
+     <a href="https://www.apiahf.org/"> Asian & Pacific Islander American Health Forum </a>
+     <h2 class="takeActionTxt"> What else can you do?</h2>
+     <h4> Speak with your elected officials! Is there a bill supporting the AAPI community that your elected official can help pass? Is there a certain issue in your area that they aren't addressing? Reach out to them. </h4>
+     <h4> Call for Ethnic Studies courses in your school! These programs will help educate many more students on the history of racism against the AAPI community. </h4>
+     <h4> Become a customer at a local AAPI business! </h4>
+     <h4> Share places for members of the AAPI community to report any hate incidents. </h4>
+   </main>
+
+
+   <script src="/script.js" defer></script>
+  
+ </body>
+</html>
