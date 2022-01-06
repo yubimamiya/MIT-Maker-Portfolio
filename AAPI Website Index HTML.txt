@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+  
+   <title>AAPI | Home</title>
+   <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <!-- link the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+
+ </head>
+  <body>
+
+
+   <nav>
+     <ul>
+       <li>
+         <a href="index.html" > Home</a>
+       </li>
+       <li>
+         <a href="about.html" > About</a>
+       </li>
+       <li>
+         <a href="takeAction.html" > Action</a>
+       </li>
+       <li>
+         <a href="stayConnected.html" > Connect</a>
+       </li>
+     </ul>
+   </nav>
+  
+   <header>
+     <h1>Working in solidarity with the AAPI community</h1>
+   </header>
+
+
+   <main>
+     <div class="container">
+     <a href="about.html">
+       <img src="assets/about.png" alt="STOP" width="380px" height="380px">
+     </a>
+     <p class="text-block">Learn about the history of the AAPI community in <br> the United States, including the racism towards <br> the AAPI, the impact of the COVID-19 <br> pandemic, common misconceptions, and educational <br> resources.</p>
+     </div>
+     <div class="container">
+     <a href="takeAction.html">
+       <img src="assets/takeAction.png" alt="ASIAN" width="380px" height="380px">
+     </a>
+     <p class="text-block">Find various ways to support the AAPI community’s <br> fight for justice and representation based on your <br> resources.</p>
+     </div>
+     <div class="container">
+     <a href="stayConnected.html">
+       <img src="assets/stayConnected.png" alt="HATE" width="380px" height="380px">
+     </a>
+     <p class="text-block">Follow accurate information outlets reporting on the <br> AAPI community and its work.</p>
+     </div>
+
+
+   </main>
+
+
+   <!-- link the webpage's JavaScript file -->
+    <script src="/script.js" defer></script>
+  
+ </body>
+</html>
