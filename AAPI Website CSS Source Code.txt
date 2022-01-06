@@ -1,0 +1,146 @@
+﻿/* STYLE SECTIONING TAGS */
+
+
+body {
+background-color: white;
+}
+
+
+.container {
+ position: relative;
+ display: inline;
+}
+
+
+/* STYLE TEXT */
+.text-block {
+ position: absolute;
+ bottom: 20px;
+ left: 20px;
+ background-color: white;
+ color: black;
+ margin-left: 5px;
+ padding-left: 10px;
+ padding-right: 10px;
+}
+
+
+body {
+ background-image: url("assets/background.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 100%;
+ background-attachment: fixed;
+}
+
+
+h1 {
+ text-align: center;
+ margin-top: 1em;
+ margin-bottom: 2em;
+}
+
+
+h2 {
+ color: #586FA3;
+ margin-bottom: 1em;
+ margin-top: 1em;
+}
+
+
+.information {
+ border: 5px solid #F5453b;
+}
+
+
+.aboutTxt {
+ color: #F5453b;
+}
+
+
+.takeActionTxt {
+ color: #586FA3;
+}
+
+
+.stayConnectedTxt {
+ color: #F57A16;
+}
+
+
+.media {
+ border: 5px solid #F57A16;
+}
+
+
+.stayConnectedTitle {
+ color: black;
+}
+
+
+
+
+/* STYLE IMAGES */
+img {
+ margin: 1em;
+ border: 5px solid white;
+}
+
+
+.aboutImgs {
+ border-color: #F5453b;
+}
+
+
+/* STYLE NAV BAR */
+ul {
+ list-style-type: none;
+ background-color: white;
+ overflow: hidden;
+ padding: 1em;
+}
+
+
+li {
+ display: inline;
+}
+
+
+li a {
+ text-decoration: none;
+ color: black;
+ font-size: 1.5em;
+ padding: 1em;
+ line-height: 2em;
+}
+
+
+li a:hover {
+ background-color: #dddddd;
+}
+
+
+/* STYLE BUTTONS */
+button {
+ background-color: #F57A16;
+ color: white;
+ border: 3px solid white;
+ font-size: 20px;
+}
+
+
+#factBtn {
+ background-color: #F5453b;
+ color: white;
+ border: 3px solid white;
+ font-size: 30px;
+ border-radius: 5px 5px 5px 5px;
+}
+
+
+#userEnterBtn {
+ background-color: #586FA3;
+ color: white;
+ border: 3px solid white;
+ font-size: 20px;
+ border-radius: 5px 5px 5px 5px;
+}
