@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+  
+   <title>AAPI | About</title>
+   <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/style.css" />
+
+
+ </head>
+  <body>
+
+
+   <nav>
+     <ul>
+       <li>
+         <a href="index.html" > Home</a>
+       </li>
+       <li>
+         <a href="about.html" > About</a>
+       </li>
+       <li>
+         <a href="takeAction.html" > Action</a>
+       </li>
+       <li>
+         <a href="stayConnected.html" > Connect</a>
+       </li>
+     </ul>
+   </nav>
+  
+   <header>
+     <h1> Learn something new about the AAPI community, just click on the button below!</h1>
+     <button value="text" id="factBtn"> Fact </button>
+     <h3 id="fact"> Your fact here </h3>
+   </header>
+
+
+   <main>
+     <h1>Who is the AAPI community?</h1>
+     <h2 class="aboutTxt"> AAPI stands for Asian Americans and Pacific Islanders. The AAPI community isn't a single monolithic group. Instead, it is an umbrella term for East Asian, South Asian, Southeast Asian, Pacific Islander, and other Asians. Each of these subgroups have members that trace their cultures, ethnicities, and histories back to different stories. As a result, their experience in the United States drastically varies between each other.</h2>
+     <!-- images are too small -->
+     <img class="aboutImgs" src="assets/aapiBreakdownOne.png" alt="In the AAPI community, 8.6 million are East Asian and 7.6 million are Southeast Asian." width="40%" height="30%">
+     <img class="aboutImgs" src="assets/aapiBreakdownTwo.png" alt="In the AAPI community, 5.3 million are South Asian and 1.5 million are Pacific Islander." width="50%" height="25%">
+     <h1>How has the AAPI community experienced racism?</h1>
+     <h2 class="aboutTxt">The United States has historically discriminated against immigrants of Asian descent.</h2>
+     <div class="information">
+     <h4>The Chinese Exclusion Act prohibited most Chinese from immigrating to the United States. This decision stemmed from the rhetoric that the Chinese immigrants were "taking" American jobs.</h4>
+     <h4>The California Supreme Court Decision People v. Hall barred Chinese witnesses from testifying against white witnesses. This furthered the rise of crimes against Chinese residents.</h4>
+     <h4>The Gentlemen’s Agreement: limit Japanese immigration</h4>
+     </div>
+     <h2 class="aboutTxt">The United States continues to discriminate against the AAPI community.</h2>
+     <div class="information">
+     <h4>The internment of Japanese Americans on the West Coast in World War II was based more on hysteria than on evidence of espionage. Many Japanese Americans lost their livelihoods due to the fueling of racism and their extended displacement.</h4>
+     <h4>Members of the AAPI community experience workplace discrimination, which includes interpersonal microaggressions, harassment, and on-the-job treatment to discrimination in hiring, firing, and promotion affected by stereotypes, prejudice, and the model minority myth.</h4>
+     <h4>Members of the AAPI community experience displacement from ethnic enclaves like Chinatowns in the face of gentrification and housing discrimination.</h4>
+     <h4>As a result, southeast Asian Americans have high poverty rates and high school drop-out rates.</h4>
+     </div>
+     <h1>How has the COVID-19 pandemic impacted the AAPI community?</h1>
+     <h2 class="aboutTxt">There has been a rise in hate crimes against members of the AAPI community, especially against those who are East Asian and women.</h2>
+     <h4>Discrimination against members of the AAPI community most commonly occur at businesses, public streets, and online in the form of verbal harrassment, avoidance/shunning, and physical assault.</h4>
+     <img class="aboutImgs" src="assets/discriminationSites.png" alt="Sites of Discrimination" width="50%" height="25%">
+     <img class="aboutImgs" src="assets/discriminationTypes.png" alt="Types of Discrimination" width="50%" height="25%">
+     <h4>There has also been a rise in hate crimes against specifically AAPI women.</h4>
+     <img class="aboutImgs" src="assets/discriminationWomen.png" alt="Reasons Behind Discrimination Against Asian Women" width="50%" height="25%">
+     <h1>What are misconceptions held about the AAPI community?</h1>
+     <h4 class="aboutTxt">Model Minority Myth: Many Americans believe that the AAPI community models what immigrants are "supposed" to do. This glosses over their challenges and delimigitatisez the struggles of other minority groups. In reality, members of the AAPI community range over a large amount of income, some of which is actually lower than the national average.</h4>
+     <img class="aboutImgs" src="assets/aapiIncome.png" alt="Chart of Incomes of different supgroups of the AAPI community" width="50%" height="25%">
+     <h4 class="aboutTxt">AAPI isn't actually well-represented in government: Many Americans believe that the AAPI community has lot's of representation in the American government. This is false! The AAPI community is actually the most underrepresented ethnicity in America.</h4>
+     <img class="aboutImgs" src="assets/aapiRepresentation.png" alt="Chart of Representation of different Races" width="50%" height="25%">
+   </main>
+
+
+   <script src="/script.js" defer></script>
+  
+ </body>
+</html>
