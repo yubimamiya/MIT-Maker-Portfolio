@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html>
+ <head>
+  
+   <title>AAPI | Stay Connected</title>
+   <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+    <!-- link the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+
+ </head>
+  <body>
+
+
+   <nav>
+     <ul>
+       <li>
+         <a href="index.html" > Home</a>
+       </li>
+       <li>
+         <a href="about.html" > About</a>
+       </li>
+       <li>
+         <a href="takeAction.html" > Action</a>
+       </li>
+       <li>
+         <a href="stayConnected.html" > Connect</a>
+       </li>
+     </ul>
+   </nav>
+  
+   <header>
+     <h1>Follow reliable news outlets reporting on the work of the AAPI community</h1>
+   </header>
+
+
+   <main>
+     <h2 class="stayConnectedTitle"> Social Media </h2>
+
+
+     <div class="media">
+     <h3 class="stayConnectedTxt"> Instagram: @stopaapihate </h3>
+     <h3 class="stayConnectedTxt"> Instagram: @dearasianyouth </h3>
+     <h3 class="stayConnectedTxt"> Instagram: @asianpassionprogram </h3>
+     <h3 class="stayConnectedTxt"> Instagram: @aapiwomenlead </h3>
+     </div>
+
+
+     <h6> </h6>
+
+
+     <h2 class="stayConnectedTitle"> Media Outlets </h2>
+     <div class="media">
+     <h3 class="stayConnectedTxt"> NBC (National Broadcasting Company) </h3>
+     <a href="https://www.nbcnews.com/asian-america-a-to-z"> Asian American A to Z </a>
+     <h4> </h4>
+     <a href="https://www.nbc.com/asian-american-pacific-islander-heritage-month"> AAPI Heritage Month </a>
+     <h4> </h4>
+     <a href="https://www.nbcnews.com/news/asian-america/anti-asian-hate-incident-reports-nearly-doubled-march-new-data-n1266980"> Anti-Asian hate incident reports nearly doubled in March </a>
+     <h4> </h4>
+     <a href="https://www.nbcnews.com/news/asian-america/25-percent-asian-american-youths-racist-bullying-n1240380"> 'You have Chinese virus!': 1 in 4 Asian American youths experience racist bullying, report says </a>
+     <h4> </h4>
+     <a href="https://www.nbcnews.com/shopping/lifestyle/aapi-owned-businesses-n1268981"> 100+ AAPI-owned businesses to support in 2021 </a>
+     </div>
+
+
+     <h6> </h6>
+
+
+     <div class="media">
+     <h3 class="stayConnectedTxt"> AP (Associated Press) </h3>
+     <a href="https://apnews.com/article/donald-trump-el-paso-texas-mass-shooting-racial-injustice-health-coronavirus-pandemic-5e97feb8c498cbf80718a62d164f8285"> More Americans believe anti-Asian hate rising </a>
+     <h4> </h4>
+     <a href="https://apnews.com/article/donald-trump-asia-business-race-and-ethnicity-immigration-954b84d1cd5d15aade8edeb262dfc37e"> Asian American health workers fight virus and racist attacks </a>
+     <h4> </h4>
+     <a href="https://apnews.com/article/asian-americans-wake-of-atlanta-attacks-1731404048730b467d2b45944ad2c661"> Asian Americans grieve, organize in wake of Atlanta attacks </a>
+     <h4> </h4>
+     <a href="https://apnews.com/article/race-and-ethnicity-health-coronavirus-pandemic-lifestyle-education-75e52566e991e492d60b55ec7c38830a"> Racist attacks revive Asian American studies program demand </a>
+     </div>
+
+
+     <h6> </h6>
+
+
+     <div class="media">
+     <h3 class="stayConnectedTxt"> Reuters </h3>
+     <a href="https://www.reuters.com/article/us-usa-house-hate-crimes-idUSKBN2BA24N"> Asian Americans 'screaming out for help' as abuse surges </a>
+     <h4> </h4>
+     <a href="https://www.reuters.com/article/us-usa-race-the-talk-idUSKBN2BI1BS"> With anti-Asian hate in U.S. rising, parents grapple over whether to talk to their children </a>
+     <h4> </h4>
+     <a href="https://www.reuters.com/world/us/us-senate-passes-bill-fight-anti-asian-hate-crimes-2021-04-22/"> U.S. Senate passes bill to fight anti-Asian hate crimes </a>
+     <h4> </h4>
+     <a href="https://www.reuters.com/article/us-crime-georgia-spas-fear-idUSKBN2B934A"> For Asian-Americans, Atlanta shooting sows fresh fear after a year of mounting discrimination </a>
+     <h4> </h4>
+     <a href="https://www.reuters.com/world/us/asian-american-groups-push-socio-political-clout-with-funding-surge-2021-04-30/"> Asian-American groups push for socio-political clout with funding surge </a>
+     </div>
+
+
+     <h6> </h6>
+
+
+     <div class="media">
+     <h3 class="stayConnectedTxt"> NPR (National Public Radio) </h3>
+     <a href="https://www.npr.org/2021/05/25/999874296/6-charts-that-dismantle-the-trope-of-asian-americans-as-a-model-minority"> 6 Charts That Dismantle The Trope Of Asian Americans As A Model Minority </a>
+     <h4> </h4>
+     <a href="https://www.npr.org/series/997876283/asian-american-and-pacific-islander-heritage-month"> Asian American And Pacific Islander Heritage Month </a>
+     <h4> </h4>
+     <a href="https://www.npr.org/sections/health-shots/2021/05/29/1001373994/amid-growing-anti-asian-racism-a-call-for-more-research-into-its-health-effects"> Amid Growing Anti-Asian Racism, A Call For More Research Into Its Health Effects </a>
+     <h4> </h4>
+     <a href="https://www.npr.org/2021/05/16/997346466/80-of-asian-americans-say-they-are-discriminated-against"> 42% In The U.S. Can't Name A Single Prominent Asian American, A Survey Finds </a>
+     <h4> </h4>
+     <a href="https://www.npr.org/2021/03/17/978055571/anti-asian-attacks-rise-during-pandemic-read-nprs-stories-on-the-surge-in-violen"> Anti-Asian Attacks Rise During Pandemic. Read NPR's Stories On The Surge In Violence </a>
+     </div>
+   </main>
+
+
+   <!-- link the webpage's JavaScript file -->
+    <script src="/script.js" defer></script>
+  
+ </body>
+</html>
